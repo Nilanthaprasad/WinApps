@@ -1,0 +1,24 @@
+_0kg_wc_customer_lookup - Customer Table
+
+order items
+_0kg_wc_order_product_lookup
+_0kg_woocommerce_order_items
+_0kg_woocommerce_order_itemmeta
+
+
+
+_0kg_wc_order_stats - order is created here
+
+_0kg_terms - has product names
+_0kg_term_relationships	
+_0kg_term_taxonomy
+
+
+
+
+_0kg_wc_product_meta_lookup - Has some data about products
+
+_0kg_yith_wcwl
+
+
+

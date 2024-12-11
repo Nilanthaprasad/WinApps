@@ -1,0 +1,8 @@
+#1
+SELECT * FROM `_0kg_woocommerce_order_items` as a WHERE a.order_id = 1646 and a .order_item_type <> 'shipping'
+
+#2
+SELECT a.meta_key, a.meta_value  from `_0kg_woocommerce_order_itemmeta` as a WHERE (a.order_item_id = 1 and a.meta_key = '_product_id' ) OR (a.order_item_id = 1 and a.meta_key = '_qty' ) OR 
+(a.order_item_id = 1 and a.meta_key = '_line_subtotal') OR
+(a.order_item_id = 1 and a.meta_key = '_line_total')
+

@@ -1,0 +1,75 @@
+C:\D\OneDrive - Faculty of Management Studies and Commerce\Project\.Net\Ran Aswanu\RanAswanuPOS\RanAswanuPOS\bin\Debug\RanAswanuPOS.exe.config
+C:\D\OneDrive - Faculty of Management Studies and Commerce\Project\.Net\Ran Aswanu\RanAswanuPOS\RanAswanuPOS\bin\Debug\RanAswanuPOS.exe
+C:\D\OneDrive - Faculty of Management Studies and Commerce\Project\.Net\Ran Aswanu\RanAswanuPOS\RanAswanuPOS\bin\Debug\RanAswanuPOS.pdb
+C:\D\OneDrive - Faculty of Management Studies and Commerce\Project\.Net\Ran Aswanu\RanAswanuPOS\RanAswanuPOS\obj\Debug\RanAswanuPOS.csprojAssemblyReference.cache
+C:\D\OneDrive - Faculty of Management Studies and Commerce\Project\.Net\Ran Aswanu\RanAswanuPOS\RanAswanuPOS\obj\Debug\RanAswanuPOS.Login.resources
+C:\D\OneDrive - Faculty of Management Studies and Commerce\Project\.Net\Ran Aswanu\RanAswanuPOS\RanAswanuPOS\obj\Debug\RanAswanuPOS.Main.resources
+C:\D\OneDrive - Faculty of Management Studies and Commerce\Project\.Net\Ran Aswanu\RanAswanuPOS\RanAswanuPOS\obj\Debug\RanAswanuPOS.Orders.resources
+C:\D\OneDrive - Faculty of Management Studies and Commerce\Project\.Net\Ran Aswanu\RanAswanuPOS\RanAswanuPOS\obj\Debug\RanAswanuPOS.Properties.Resources.resources
+C:\D\OneDrive - Faculty of Management Studies and Commerce\Project\.Net\Ran Aswanu\RanAswanuPOS\RanAswanuPOS\obj\Debug\RanAswanuPOS.csproj.GenerateResource.cache
+C:\D\OneDrive - Faculty of Management Studies and Commerce\Project\.Net\Ran Aswanu\RanAswanuPOS\RanAswanuPOS\obj\Debug\RanAswanuPOS.csproj.CoreCompileInputs.cache
+C:\D\OneDrive - Faculty of Management Studies and Commerce\Project\.Net\Ran Aswanu\RanAswanuPOS\RanAswanuPOS\obj\Debug\RanAswanuPOS.exe
+C:\D\OneDrive - Faculty of Management Studies and Commerce\Project\.Net\Ran Aswanu\RanAswanuPOS\RanAswanuPOS\obj\Debug\RanAswanuPOS.pdb
+C:\D\OneDrive - Faculty of Management Studies and Commerce\Project\.Net\Ran Aswanu\RanAswanuPOS\RanAswanuPOS\obj\Debug\RanAswanuPOS.Invoice.resources
+E:\RanAswanu\OrderManagementSystem\RanAswanuPOS\RanAswanuPOS\obj\Debug\RanAswanuPOS.csprojAssemblyReference.cache
+E:\RanAswanu\OrderManagementSystem\RanAswanuPOS\RanAswanuPOS\obj\Debug\RanAswanuPOS.Invoice.resources
+E:\RanAswanu\OrderManagementSystem\RanAswanuPOS\RanAswanuPOS\obj\Debug\RanAswanuPOS.frmLogin.resources
+E:\RanAswanu\OrderManagementSystem\RanAswanuPOS\RanAswanuPOS\obj\Debug\RanAswanuPOS.Main.resources
+E:\RanAswanu\OrderManagementSystem\RanAswanuPOS\RanAswanuPOS\obj\Debug\RanAswanuPOS.Orders.resources
+E:\RanAswanu\OrderManagementSystem\RanAswanuPOS\RanAswanuPOS\obj\Debug\RanAswanuPOS.Properties.Resources.resources
+E:\RanAswanu\OrderManagementSystem\RanAswanuPOS\RanAswanuPOS\obj\Debug\RanAswanuPOS.csproj.GenerateResource.cache
+E:\RanAswanu\OrderManagementSystem\RanAswanuPOS\RanAswanuPOS\obj\Debug\RanAswanuPOS.csproj.CoreCompileInputs.cache
+E:\RanAswanu\OrderManagementSystem\RanAswanuPOS\RanAswanuPOS\obj\Debug\RanAswanuPOS.exe
+E:\RanAswanu\OrderManagementSystem\RanAswanuPOS\RanAswanuPOS\obj\Debug\RanAswanuPOS.pdb
+E:\RanAswanu\OrderManagementSystem\RanAswanuPOS\RanAswanuPOS\bin\Debug\RanAswanuPOS.exe.config
+E:\RanAswanu\OrderManagementSystem\RanAswanuPOS\RanAswanuPOS\bin\Debug\RanAswanuPOS.exe
+E:\RanAswanu\OrderManagementSystem\RanAswanuPOS\RanAswanuPOS\bin\Debug\RanAswanuPOS.pdb
+E:\RanAswanu\OrderManagementSystem\RanAswanuPOS\RanAswanuPOS\bin\Debug\MySql.Data.dll
+E:\RanAswanu\OrderManagementSystem\RanAswanuPOS\RanAswanuPOS\bin\Debug\Google.Protobuf.dll
+E:\RanAswanu\OrderManagementSystem\RanAswanuPOS\RanAswanuPOS\bin\Debug\BouncyCastle.Crypto.dll
+E:\RanAswanu\OrderManagementSystem\RanAswanuPOS\RanAswanuPOS\bin\Debug\Ubiety.Dns.Core.dll
+E:\RanAswanu\OrderManagementSystem\RanAswanuPOS\RanAswanuPOS\bin\Debug\Renci.SshNet.dll
+E:\RanAswanu\OrderManagementSystem\RanAswanuPOS\RanAswanuPOS\bin\Debug\MySql.Data.xml
+E:\RanAswanu\OrderManagementSystem\RanAswanuPOS\RanAswanuPOS\obj\Debug\RanAswanuPOS.csproj.CopyComplete
+C:\Users\USJP\Google Drive\RanAswanuPOS\RanAswanuPOS\bin\Debug\RanAswanuPOS.exe.config
+C:\Users\USJP\Google Drive\RanAswanuPOS\RanAswanuPOS\bin\Debug\RanAswanuPOS.exe
+C:\Users\USJP\Google Drive\RanAswanuPOS\RanAswanuPOS\bin\Debug\RanAswanuPOS.pdb
+C:\Users\USJP\Google Drive\RanAswanuPOS\RanAswanuPOS\bin\Debug\MySql.Data.dll
+C:\Users\USJP\Google Drive\RanAswanuPOS\RanAswanuPOS\bin\Debug\Google.Protobuf.dll
+C:\Users\USJP\Google Drive\RanAswanuPOS\RanAswanuPOS\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\USJP\Google Drive\RanAswanuPOS\RanAswanuPOS\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\USJP\Google Drive\RanAswanuPOS\RanAswanuPOS\bin\Debug\Renci.SshNet.dll
+C:\Users\USJP\Google Drive\RanAswanuPOS\RanAswanuPOS\bin\Debug\MySql.Data.xml
+C:\Users\USJP\Google Drive\RanAswanuPOS\RanAswanuPOS\obj\Debug\RanAswanuPOS.csprojAssemblyReference.cache
+C:\Users\USJP\Google Drive\RanAswanuPOS\RanAswanuPOS\obj\Debug\RanAswanuPOS.Invoice.resources
+C:\Users\USJP\Google Drive\RanAswanuPOS\RanAswanuPOS\obj\Debug\RanAswanuPOS.frmLogin.resources
+C:\Users\USJP\Google Drive\RanAswanuPOS\RanAswanuPOS\obj\Debug\RanAswanuPOS.Main.resources
+C:\Users\USJP\Google Drive\RanAswanuPOS\RanAswanuPOS\obj\Debug\RanAswanuPOS.Orders.resources
+C:\Users\USJP\Google Drive\RanAswanuPOS\RanAswanuPOS\obj\Debug\RanAswanuPOS.Properties.Resources.resources
+C:\Users\USJP\Google Drive\RanAswanuPOS\RanAswanuPOS\obj\Debug\RanAswanuPOS.csproj.GenerateResource.cache
+C:\Users\USJP\Google Drive\RanAswanuPOS\RanAswanuPOS\obj\Debug\RanAswanuPOS.csproj.CoreCompileInputs.cache
+C:\Users\USJP\Google Drive\RanAswanuPOS\RanAswanuPOS\obj\Debug\RanAswanuPOS.csproj.CopyComplete
+C:\Users\USJP\Google Drive\RanAswanuPOS\RanAswanuPOS\obj\Debug\RanAswanuPOS.exe
+C:\Users\USJP\Google Drive\RanAswanuPOS\RanAswanuPOS\obj\Debug\RanAswanuPOS.pdb
+G:\My Drive\My Business\Ran Aswanu\Software\RanAswanuPOS\RanAswanuPOS\bin\Debug\RanAswanuPOS.exe.config
+G:\My Drive\My Business\Ran Aswanu\Software\RanAswanuPOS\RanAswanuPOS\bin\Debug\RanAswanuPOS.exe
+G:\My Drive\My Business\Ran Aswanu\Software\RanAswanuPOS\RanAswanuPOS\bin\Debug\RanAswanuPOS.pdb
+G:\My Drive\My Business\Ran Aswanu\Software\RanAswanuPOS\RanAswanuPOS\bin\Debug\Google.Protobuf.dll
+G:\My Drive\My Business\Ran Aswanu\Software\RanAswanuPOS\RanAswanuPOS\bin\Debug\BouncyCastle.Crypto.dll
+G:\My Drive\My Business\Ran Aswanu\Software\RanAswanuPOS\RanAswanuPOS\bin\Debug\Ubiety.Dns.Core.dll
+G:\My Drive\My Business\Ran Aswanu\Software\RanAswanuPOS\RanAswanuPOS\bin\Debug\Renci.SshNet.dll
+G:\My Drive\My Business\Ran Aswanu\Software\RanAswanuPOS\RanAswanuPOS\bin\Debug\MySql.Data.xml
+G:\My Drive\My Business\Ran Aswanu\Software\RanAswanuPOS\RanAswanuPOS\obj\Debug\RanAswanuPOS.csprojAssemblyReference.cache
+G:\My Drive\My Business\Ran Aswanu\Software\RanAswanuPOS\RanAswanuPOS\obj\Debug\RanAswanuPOS.Invoice.resources
+G:\My Drive\My Business\Ran Aswanu\Software\RanAswanuPOS\RanAswanuPOS\obj\Debug\RanAswanuPOS.frmLogin.resources
+G:\My Drive\My Business\Ran Aswanu\Software\RanAswanuPOS\RanAswanuPOS\obj\Debug\RanAswanuPOS.Main.resources
+G:\My Drive\My Business\Ran Aswanu\Software\RanAswanuPOS\RanAswanuPOS\obj\Debug\RanAswanuPOS.Orders.resources
+G:\My Drive\My Business\Ran Aswanu\Software\RanAswanuPOS\RanAswanuPOS\obj\Debug\RanAswanuPOS.Properties.Resources.resources
+G:\My Drive\My Business\Ran Aswanu\Software\RanAswanuPOS\RanAswanuPOS\obj\Debug\RanAswanuPOS.csproj.GenerateResource.cache
+G:\My Drive\My Business\Ran Aswanu\Software\RanAswanuPOS\RanAswanuPOS\obj\Debug\RanAswanuPOS.csproj.CoreCompileInputs.cache
+G:\My Drive\My Business\Ran Aswanu\Software\RanAswanuPOS\RanAswanuPOS\obj\Debug\RanAswanuPOS.csproj.CopyComplete
+G:\My Drive\My Business\Ran Aswanu\Software\RanAswanuPOS\RanAswanuPOS\obj\Debug\RanAswanuPOS.exe
+G:\My Drive\My Business\Ran Aswanu\Software\RanAswanuPOS\RanAswanuPOS\obj\Debug\RanAswanuPOS.pdb
+C:\Users\USJP\Google Drive\RanAswanuPOS\RanAswanuPOS\obj\Debug\RanAswanuPOS.OrderDetails.resources
+C:\Users\USJP\Google Drive\RanAswanuPOS\RanAswanuPOS\obj\Debug\RanAswanuPOS.OrderLessDetail.resources
+C:\Users\USJP\Google Drive\RanAswanuPOS\RanAswanuPOS\obj\Debug\RanAswanuPOS.OrderDetailsDynamicCustomerRetrieval.resources
